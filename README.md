@@ -1,2 +1,2 @@
-# Welcome to python programm
+# Welcome to python programming
 print("Hello World")
